@@ -2,7 +2,7 @@
 
 a simple python app to check file integrity.
 
-run with below command:
+Run application with the following command:
 ```
 python app.py
 ```
